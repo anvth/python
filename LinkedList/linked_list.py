@@ -1,4 +1,4 @@
-from node import Node
+from node import BaseNode as Node
 
 class UnorderedList(object):
 	def __init__(self):
