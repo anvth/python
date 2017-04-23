@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-# import matplotlib.pyplot as plt
-# import tensorflow as tf
+import matplotlib.pyplot as plt
+import tensorflow as tf
 
 # step 1 load data
 data_frame = pd.read_csv('tensorflow_classification.csv') #dataframe
